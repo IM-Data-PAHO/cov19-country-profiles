@@ -5,7 +5,9 @@ This repository contains the country profiles for COVID-19 vaccinations in the R
 The home pages for this project are available here:
 
 1. [In English](https://www.paho.org/en/topics/immunization/immunization-data-and-statistics/covid-19-vaccine-country-profiles)
-2. [En Español](https://www.paho.org/es/temas/inmunizacion/datos-estadisticas-inmunizacion/perfiles-pais-vacunacion-covid-19)
+2. [En español](https://www.paho.org/es/temas/inmunizacion/datos-estadisticas-inmunizacion/perfiles-pais-vacunacion-covid-19)
+3. [En français](https://www.paho.org/fr/node/69568/vacina-covid-19-perfis-dos-paises)
+4. [En portugais](https://www.paho.org/pt/node/69568/vacina-covid-19-perfis-dos-paises)
 
 # Data Sources
 
