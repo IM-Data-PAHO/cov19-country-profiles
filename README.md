@@ -1,6 +1,6 @@
 # COVID-19 vaccine country profiles
 
-This repository contains the country profiles for COVID-19 vaccinations in the Region of the Americas, produced by the FPL/IM Data Team at PAHO .
+This repository contains the country profiles for COVID-19 vaccinations in the Region of the Americas, produced by the CIM Data Team at PAHO .
 
 The home pages for this project are available here:
 
